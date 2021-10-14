@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "FoodNow",
+    "slug": "FoodNow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "notification": {
+      "icon": "./assets/iconNot.png",
+      "color": "#f79340"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f79340"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "softwareKeyboardLayoutMode":"pan",
+      "package": "com.app.FoodNow",
+      "googleServicesFile": "./google-services.json"    
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

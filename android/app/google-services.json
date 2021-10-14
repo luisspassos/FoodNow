@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581763773095",
+    "project_id": "foodnow-ed748",
+    "storage_bucket": "foodnow-ed748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581763773095:android:63c888d0905109b9eb2182",
+        "android_client_info": {
+          "package_name": "com.app.FoodNow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581763773095-gpbhktg0050qt4tiair2pf5l8qtgcf8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYlRSr7E66vc3WpfvO4oFYrB7QkyoWWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581763773095-gpbhktg0050qt4tiair2pf5l8qtgcf8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
