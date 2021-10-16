@@ -18,7 +18,7 @@
 - <a href="https://reactnative.dev/">React Native</a>
 - <a href="https://docs.expo.dev/">Expo</a>
 - <a href="https://firebase.google.com/?hl=pt">Firebase</a>
-- <a href="https://docs.expo.dev/bare/exploring-bare-workflow/">Bare Workflow</a>
+- <a href="https://docs.expo.dev/bare/exploring-bare-workflow/">Bare Workflow Expo</a>
 - <a href="https://github.com/expo/google-fonts">Expo Google Fonts</a>
 - <a href="https://reactjs.org/">React</a>
 - <a href="https://reactnavigation.org/">React Navigation</a>
