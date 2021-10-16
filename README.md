@@ -15,9 +15,13 @@
 </p>
 
 ## Technologies used :scroll:
-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>
-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>
-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JS</a>
+- <a href="https://reactnative.dev/">React Native</a>
+- <a href="https://docs.expo.dev/">Expo</a>
+- <a href="https://firebase.google.com/?hl=pt">Firebase</a>
+- <a href="https://docs.expo.dev/bare/exploring-bare-workflow/">Bare Workflow</a>
+- <a href="https://github.com/expo/google-fonts">Expo Google Fonts</a>
+- <a href="https://reactjs.org/">React</a>
+- <a href="https://reactnavigation.org/">React Navigation</a>
 
 ## License :white_check_mark:
 
