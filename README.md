@@ -12,6 +12,7 @@
 
 <p align="center"> 
 <img src="assets/img1.jpg" alt="image1" /> <img src="assets/img2.jpg" alt="image2" /> <img src="assets/img3.jpg" alt="image3" /> <img src="assets/img4.jpg" alt="image4" />
+<img src="assets/img5.jpg" alt="image5" /> <img src="assets/img6.jpg" alt="image6" /> <img src="assets/img7.jpg" alt="image7" /> <img src="assets/img8.jpg" alt="image8" />
 </p>
 
 ## Technologies used :scroll:
